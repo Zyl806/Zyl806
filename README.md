@@ -2,7 +2,7 @@
 **Undergraduate Student**
 Beijing Language and Culture University, Department of Computer Science
 
-📧 Email: 你的北语学校邮箱
+📧 Email: 202411580507@stu.blcu.edu.cn
 
 ## Research Interests
 Federated Learning, Backdoor Attack, Adversarial Machine Learning, Deep Learning, Web Security
